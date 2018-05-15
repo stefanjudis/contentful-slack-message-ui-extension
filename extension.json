@@ -1,0 +1,6 @@
+{
+  "name": "Slack Message Preview Extension",
+  "id": "cf-slack-message",
+  "fieldTypes": ["Object"],
+  "srcdoc": "./index.html"
+}
